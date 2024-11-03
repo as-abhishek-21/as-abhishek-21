@@ -3,7 +3,7 @@
   <span> <h2> I'm Abhishek Singh </h2> </span>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mern+Stack+Developer;React+Developer;JavaScript+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mern+Stack+Developer;React+Developer;JavaScript+Developer;Flutter+Developer)](https://git.io/typing-svg)
 --------------------------
 
 I'm a Full-Stack Developer specializing in the MERN stack. I write optimized code that help you to build your personal website with seamless customization. I've worked on many complex data management project and I am learning each day. I'm Highly proficient in both front-end and back-end frameworks along with relational / non-relational databases and well versed in API creation & integration. I can work and manage from development to test to deployment & my another expertise is, I write very clean and readable code.
