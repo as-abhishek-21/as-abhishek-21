@@ -33,7 +33,8 @@ While proficient in front-end frameworks, I'm developing my back-end expertise a
 | Node.js | Express | MongoDB | Firebase |
 | ![Node.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) | ![Express](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg) | ![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg) | ![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg) |
 | Flutter | Java | Dart | SQL |
-| ![Flutter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg) | ![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg) | ![Dart](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg) | ![SQL](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/database.svg) |
+| ![Flutter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg) | ![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg) | ![Dart](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg) | ![SQL](https://i.imgur.com/your_image_id.svg) |
+
 
 
 
