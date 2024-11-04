@@ -1,9 +1,11 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
-<h1 align="center">👋 HELLO WORLD!  
-<!--   <span>  </span> -->
+<h1 align="center">
+    👋 HELLO WORLD!  
 </h1>
-<h1 align="center"> I'm Abhishek Singh </h1>
-  
+<h1 align="center"> 
+    I'm Abhishek Singh 
+</h1>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -15,95 +17,105 @@ I'm a Full-Stack Developer with strong front-end skills, specializing in the MER
 Experienced in complex data management projects, I focus on writing clean, readable code and am skilled in API integration.  <br/> 
 While proficient in front-end frameworks, I'm developing my back-end expertise and recently exploring Flutter and Firebase to broaden my capabilities.
 
-* 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [website]()
-* ✉️  You can contact me at [abhisheksingh.as2321@gmail.com](mailto:abhisheksingh.as2321@gmail.com)
-* 🚀  I'm currently working on building application like [ixigo](https://www.ixigo.com/) 
-* 🧠  I'm learning Back-end Development 
-* 🤝  I'm open to collaborating on any project based on my skills
+* 🌍  I'm based in Bengaluru
+* 🖥️  See my portfolio at [website]()
+* ✉️  You can contact me at [abhisheksingh.as2321@gmail.com](mailto:abhisheksingh.as2321@gmail.com)
+* 🚀  I'm currently working on building application like [ixigo](https://www.ixigo.com/) 
+* 🧠  I'm learning Back-end Development 
+* 🤝  I'm open to collaborating on any project based on my skills
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Skills
-<table style="width: 100%; table-layout: fixed;">
+  ### Skills
+  <table>
     <tr>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="50" height="50" />
-            <br>JavaScript
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="50" height="50" />
-            <br>HTML5
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="50" height="50" />
-            <br>React
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="50" height="50" />
-            <br>Next.js
-        </td>
+      <td align="center" width="96">
+        <h3>Programming Languages</h3>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript"/>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="48" height="48" alt="Dart"/>
+        <br>Dart
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/as-abhishek-21/as-abhishek-21/main/sql.svg" width="48" height="48" alt="Dart"/>
+        <br>SQL
+      </td>
     </tr>
     <tr>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="50" height="50" />
-            <br>Tailwind CSS
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="50" height="50" />
-            <br>Bootstrap
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" width="50" height="50" />
-            <br>Material UI
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" width="50" height="50" />
-            <br>Redux
-        </td>
+      <td align="center" width="96">
+        <h3>Frameworks</h3>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React"/>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" alt="Next.js"/>
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="48" height="48" alt="Flutter"/>
+        <br>Flutter
+      </td>
     </tr>
     <tr>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" width="50" height="50" />
-            <br>Node.js
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express.js" width="50" height="50" />
-            <br>Express
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="50" height="50" />
-            <br>MongoDB
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="50" height="50" />
-            <br>Firebase
-        </td>
+      <td align="center" width="96">
+        <h3>Databases</h3>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48" height="48" alt="MongoDB"/>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase"/>
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express"/>
+        <p>Express</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="Node.js"/>
+        <br>Node.js
+      </td>
     </tr>
     <tr>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" width="50" height="50" />
-            <br>Flutter
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="50" height="50" />
-            <br>Java
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" width="50" height="50" />
-            <br>Dart
-        </td>
-        <td style="width: 100px; height: 100px; text-align: center;">
-            <img src="https://raw.githubusercontent.com/as-abhishek-21/as-abhishek-21/main/sql.svg" alt="SQL" width="50" height="50" />
-            <br>SQL
-        </td>
+      <td align="center" width="96">
+        <h3>Tools</h3>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="Tailwind"/>
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5"/>
+        <p>HTML5</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="48" height="48" alt="Material UI"/>
+        <br>Material UI
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="48" height="48" alt="Redux"/>
+        <br>Redux
+      </td>
     </tr>
-</table>
+  </table>
+</div>
+
 
 ### Socials
-
 <p align="left">
-  <a href="[https://www.github.com/mdrazu24](https://github.com/as-abhishek-21)" target="_blank" rel="noreferrer">
+  <a href="https://github.com/as-abhishek-21" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> 
   <a href="https://www.hackerrank.com/profile/abhisheksingh_a7" target="_blank" rel="noreferrer">
