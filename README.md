@@ -15,14 +15,11 @@
 
 I'm a Full-Stack Developer with strong front-end skills, specializing in the MERN stack to build optimized, customizable websites. <br/>
 Experienced in complex data management projects, I focus on writing clean, readable code and am skilled in API integration.  <br/> 
-While proficient in front-end frameworks, I'm developing my back-end expertise and recently exploring Flutter and Firebase to broaden my capabilities.
+While proficient in front-end frameworks, I'm developing my back-end expertise and have recently explored Flutter and Firebase to broaden my capabilities.
 
 * 🌍  I'm based in Bengaluru, Karnataka, INDIA
-* 🖥️  See my portfolio at [website]()
 * ✉️  You can contact me at [abhisheksingh.as2321@gmail.com](mailto:abhisheksingh.as2321@gmail.com)
-* 🚀  I'm currently working on building application like [ixigo](https://www.ixigo.com/) 
 * 🧠  I'm learning Back-end Development 
-* 🤝  I'm open to collaborating on any project based on my skills
 
 <div>
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
