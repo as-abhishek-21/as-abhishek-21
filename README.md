@@ -22,7 +22,7 @@ While proficient in front-end frameworks, I'm developing my back-end expertise a
 * 🧠  I'm learning Back-end Development 
 
 <div>
-  <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   ### Skills
   <table>
